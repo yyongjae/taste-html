@@ -1,0 +1,491 @@
+<!doctype html>
+
+ 
+
+ 
+
+ 
+
+<html>
+
+ 
+
+ 
+
+ 
+
+<head>
+
+ 
+
+ 
+
+ 
+
+	<title>  yongcho's coding girit</title>
+
+ 
+
+ 
+
+ 
+
+	<meta charset ="utf-8">
+
+ 
+
+	
+
+ 
+
+ 
+
+ 
+
+	<style>
+
+		
+
+		
+
+		h1{
+
+		
+
+		background-color:lavender;
+
+ 
+
+		}
+
+ 
+
+ 
+
+		body{
+
+ 
+
+ 		background-color:honeydue;
+
+ 
+
+		margin:0;
+
+ 
+
+ 
+
+ 
+
+		}
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+		h1{
+
+ 
+
+ 
+
+ 
+
+		color:black;
+
+ 
+
+ 
+
+ 
+
+		text-align:center;
+
+ 
+
+ 
+
+ 
+
+		border-bottom: 2px gray solid;
+
+ 
+
+ 
+
+ 
+
+		padding:30px;
+
+ 
+
+ 
+
+ 
+
+		margin:0;
+
+ 
+
+ 
+
+ 
+
+	 	font-size:40px;
+
+ 
+
+ 
+
+ 
+
+		}
+
+ 
+
+ 
+
+ 
+
+	
+
+ 
+
+ 
+
+ 
+
+		.changecolor{        /*제목 글씨*/
+
+ 
+
+ 
+
+ 
+
+		color:mediumslateblue;
+
+ 
+
+ 
+
+ 
+
+		}
+
+ 
+
+ 
+
+		ul{                                 /*목차 박스박슈발*/
+
+ 
+
+ 		background-color:aliceblue;
+
+ 
+
+		border-right: 2px gray solid;
+
+ 
+
+ 
+
+ 
+
+		width:170px;
+
+ 
+
+ 
+
+ 
+
+		padding:20px;
+
+ 
+
+ 
+
+ 
+
+		margin:0;
+
+ 
+
+ 
+
+ 
+
+		}
+
+ 
+
+ 
+
+		#grid{                       /*그리드적용*/
+
+ 
+
+ 
+
+ 
+
+		display:grid;
+
+ 
+
+ 
+
+ 
+
+		grid-template-columns:1fr 4fr;
+
+ 
+
+ 
+
+ 
+
+		}
+
+ 
+
+ 
+
+ 
+
+		
+
+ 
+
+		#holy{
+
+ 
+
+		margin :50px;
+
+ 
+
+		}
+
+ 
+
+ 
+
+ 
+
+		li{
+
+ 
+
+		border-bottom: 1px gray solid;
+
+ 
+
+		padding:10px;
+
+ 
+
+		text-align:center;
+
+ 
+
+		text-decoration:none;
+
+ 
+
+		}
+
+ 
+
+		
+
+ 
+
+		.lists{
+
+ 
+
+		color:black;
+
+ 
+
+		text-decoration:none;
+
+ 
+
+		}
+
+ 
+
+		#contents{
+
+		margin: 30px;
+
+		}
+
+ 
+
+	</style>
+
+ 
+
+</head>
+
+ 
+
+<body>
+
+ 
+
+ 
+
+ 
+
+	<h1>용CHO <a class="changecolor">Markup</a></h1>
+
+ 
+
+ 
+
+ 
+
+		<div id="grid">
+
+ 
+
+ 
+
+ 
+
+	<ul>
+
+ 
+
+ 
+
+ 
+
+		<li><a href="file:///C:/Users/Cyber/Desktop/main.html"class="lists">Main Menu ;)</a></li>
+
+ 
+
+ 
+
+ 
+
+		<br>
+
+ 
+
+ 
+
+ 
+
+		<li><a href="C:\Users\Cyber\Desktop\spor.html" class="lists">Table</a></li>
+
+ 
+
+ 
+
+ 
+
+		<br>
+
+ 
+
+ 
+
+ 
+
+		<li>News</li>
+
+ 
+
+ 
+
+ 
+
+	</ul>
+
+ 
+
+ 
+
+ 
+
+ 
+
+		<div id="contents">
+
+ 
+
+		<p>
+
+ 
+
+		 Day1 <2019 9/7 SAT> 생코 WEB1-1~14  1시간, 실습30분 <br><br>
+
+		
+
+		 Day2 <2019 9/8 SUN> 생코 WEB1 끝(마지막 방문자 분석기는 NO), 2시간<br><br>
+
+		
+
+		 Day3 <2019 9/13 FRI> 생코 WEB2 css1~7 편집, 1시간+a<br><br>
+
+ 
+
+		 Day4 <2019 9/21 SAT> 생코 WEB2 css 실습(~그리드) 편집, 2시간(연등)<br><br>
+
+ 
+
+		 Day5 <2019 9/26 THU> 생코 WEB2 JavaScript1~11 편집, 2시간(연등)	<br><br>
+
+ 
+
+		Day6 <2019 9/27 FRI> TABLE 실습.
+
+ 
+
+		</p>
+
+ 
+
+		</div>
+
+ 
+
+ 
+
+ 
+
+	</div>
+
+ 
+
+ 
+
+ 
+
+</body>
+
+ 
+
+ 
+
+ 
+
+</html>
