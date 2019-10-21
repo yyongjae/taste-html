@@ -1,0 +1,102 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+	<title>  yongcho's coding girit</title>
+ 
+	<meta charset ="utf-8">
+
+	<link rel="stylesheet" href ="maincss.css">
+ 
+ 	<script src = "script.js"></script>   
+
+
+</head>
+ 
+<body>
+
+	<h1>용CHO <a class="changecolor">Markup</a></h1>
+
+
+	<div id="grid">
+
+
+		<ul>
+
+		<li><a href="file:///C:/Users/Cyber/Desktop/a.html"class="lists">Main Menu ;)</a></li>
+
+		<br>
+
+		<li><a href="file:///C:/Users/Cyber/Desktop/ads.html" class="lists">Table</a></li>
+
+ 		<br>
+ 
+		<li><a href="file:///C:/Users/Cyber/Desktop/nd.html" class="lists">Button Bitch</a></li>
+		
+		<br>
+
+ 		<li><a href="file:///C:/Users/admin/Desktop/new.html" class="lists">,,,nEw.?</a></li>
+
+ 
+		</ul>
+
+
+
+		<div id="contents">
+
+ 
+
+		<p>
+
+ 
+		<h3>작심삼일에 대한 띵언  - 낯선 것을 배울 때 나의 의지가 빈약하다는 것을 인정하기보다는<br>
+		    지금까지 배운 것을 여러 방면으로 써먹어보고 뇌에게 꽤 쓸만한 것을 배웠다고 증명해라<br><br></h3>
+ 
+
+ 		 <input id="black_white" type="button" value="black" onclick="BUtton(this);">
+
+		(이거슨 마법의 버튼)
+
+		<br><br>
+
+		 Day1 <2019 9/7 SAT> 생코 WEB1-1~14  1시간, 실습30분 <br><br>
+
+		 Day2 <2019 9/8 SUN> 생코 WEB1 끝(마지막 방문자 분석기는 NO), 2시간<br><br>
+
+		 Day3 <2019 9/13 FRI> 생코 WEB2 css1~7 편집, 1시간+a<br><br>
+
+		 Day4 <2019 9/21 SAT> 생코 WEB2 css 실습(~그리드) 편집, 2시간(연등)<br><br>
+
+		 Day5 <2019 9/26 THU> 생코 WEB2 JavaScript1~11 편집, 2시간(연등)	<br><br>
+ 
+		Day6 <2019 9/27 FRI> TABLE 실습.<br><br>
+
+		Day7 <2019 9/29 SUN> 생코 WEB2 JS 12~17, night/day button 적용, 1시간<br><br>
+
+		Day8 증발함<br><br>
+
+		Day9 <2019 10/4 FRI> 생코 WEB2 JS ~23, 색바꾸기버튼 수정, 2시간 연등<br><br>
+
+		Day10 <2019 10/8 TUE> 증발..,, 2시간 연등<br><br>
+
+		Day11 <2019 10/16 WED> 생코 WEB2 JS ~33 객체끝 but 적용x, 파일로 쪼개서 정리정돈 적용 1시간 30분 연등<br><br>
+		
+		Day12 <2019 10/21 MON> 생코 WEB2 JS 끝, 띵언, 
+ 
+		</p>
+
+ 
+
+		</div>
+
+	</div>
+
+ 
+
+</body>
+
+ 
+
+</html>
