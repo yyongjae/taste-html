@@ -1,0 +1,108 @@
+
+		body{
+
+ 		background-color:honeydue;
+
+		margin:0;
+
+		}
+
+
+		h1{
+
+ 		background-color:lavender;
+
+		color:black;
+ 
+		text-align:center;
+
+		border-bottom: 2px gray solid;
+
+		padding:30px;
+
+		margin:0;
+ 
+	 	font-size:40px;
+
+		}
+
+ 
+
+		.changecolor{        /*제목 글씨*/
+
+		color:mediumslateblue;
+
+		}
+
+
+		ul{                                 /*목차 박스박슈발*/
+
+ 		background-color:aliceblue;
+
+		border-right: 2px gray solid;
+
+		width:170px;
+
+		padding:20px;
+
+		margin:0;
+
+		}
+
+ 
+
+		#grid{                       /*그리드적용*/
+
+
+		display:grid;
+
+		grid-template-columns:1fr 4fr;
+
+		}
+
+
+
+		#holy{
+
+		margin :50px;
+
+		}
+
+
+
+		li{          /*목차*/
+
+
+		border-bottom: 1px gray solid;
+
+		padding:10px;
+
+		text-align:center;
+
+		text-decoration:none;
+
+		}
+
+
+
+		.lists{    /*목차내용*/
+
+		color:black;
+
+		text-decoration:none;
+
+		}
+
+
+		#contents{
+
+		margin: 30px;
+
+		}
+		
+/*
+		@media(max-width : 800px){
+		
+		div{display : none}
+		
+		} */
