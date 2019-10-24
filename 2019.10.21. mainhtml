@@ -8,9 +8,9 @@
  
 	<meta charset ="utf-8">
 
-	<link rel="stylesheet" href ="maincss.css">
+	<link rel="stylesheet" href ="b.css">
  
- 	<script src = "script.js"></script>   
+ 	<script src = "c.js"></script>   
 
 
 </head>
@@ -37,7 +37,7 @@
 		
 		<br>
 
- 		<li><a href="file:///C:/Users/admin/Desktop/new.html" class="lists">,,,nEw.?</a></li>
+ 		<li><a href="file:///C:/Users/admin/Desktop/new.html" class="lists">HomeServer?</a></li>
 
  
 		</ul>
@@ -84,6 +84,8 @@
 		Day11 <2019 10/16 WED> 생코 WEB2 JS ~33 객체끝 but 적용x, 파일로 쪼개서 정리정돈 적용 1시간 30분 연등<br><br>
 		
 		Day12 <2019 10/21 MON> 생코 WEB2 JS 끝, css.js따로 파일 만들어서 축소시킴. 앞으로 GITHUB에 저장. 1시간 30분 연등<br><br>
+		
+		Day13 <2019 10/24 THU> 생코 WEB2 Homeserver 1~7, 1시간 30분 연등  [대충 누적 17시간]<br><br>
  
 		</p>
 
