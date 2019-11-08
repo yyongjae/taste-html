@@ -1,5 +1,4 @@
-
-		body{
+body{
 
  		background-color:honeydue;
 
@@ -7,10 +6,16 @@
 
 		}
 
+	
+
 
 		h1{
 
- 		background-color:lavender;
+ 		background-color: #2C3E50; 
+		background: -webkit-linear-gradient(to bottom, #4CA1AF, #2C3E50);  
+		background: linear-gradient(to bottom, #4CA1AF, #2C3E50); 
+
+		font-family : "Bowlby One SC", sans-serif;
 
 		color:black;
  
@@ -18,7 +23,7 @@
 
 		border-bottom: 2px gray solid;
 
-		padding:30px;
+		padding:250px;
 
 		margin:0;
  
@@ -30,7 +35,7 @@
 
 		.changecolor{        /*제목 글씨*/
 
-		color:mediumslateblue;
+		color:ivory;
 
 		}
 
@@ -99,10 +104,3 @@
 		margin: 30px;
 
 		}
-		
-/*
-		@media(max-width : 800px){
-		
-		div{display : none}
-		
-		} */
