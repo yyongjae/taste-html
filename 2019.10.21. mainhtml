@@ -11,14 +11,16 @@
 	<link rel="stylesheet" href ="b.css">
  
  	<script src = "c.js"></script>   
-
-
+	
+	<link href="https://fonts.googleapis.com/css?family=Bowlby+One+SC&display=swap&subset=latin-ext" rel="stylesheet">
+     
 </head>
  
 <body>
 
-	<h1>용CHO <a class="changecolor">Markup</a></h1>
-
+	<h1>YongCHO <a class="changecolor"><br>Markup</a></h1>
+	
+	  
 
 	<div id="grid">
 
@@ -51,8 +53,8 @@
 		<p>
 
  
-		<h3>작심삼일에 대한 띵언  - 낯선 것을 배울 때 나의 의지가 빈약하다는 것을 인정하기보다는<br>
-		    지금까지 배운 것을 여러 방면으로 써먹어보고 뇌에게 꽤 쓸만한 것을 배웠다고 증명해라<br><br></h3>
+		<h3>-낯선 것을 배울 때 나의 의지가 빈약하다는 것을 인정하기보다는
+		    지금까지<br> 배운 것을 여러 방면으로 써먹어보고 뇌에게 꽤 쓸만한 것을 배웠다고 증명해라-<br><br></h3>
  
 
  		 <input id="black_white" type="button" value="black" onclick="BUtton(this);">
@@ -94,6 +96,8 @@
 		Day16 <2019 10/30 WED> 생코 DB2 MySQL 1~6, bitnami 다운받아서 MySQL 실행, 연등 1시간 30분-22<br><br>
 
 		Day17 <2019 11/5 TUE> 생코 DB2 MySQL 6~9, 아샬, 연등 1시간<br><br>
+		
+		Day18 <2019 11/8 FRI> 생코 DB2 MySQL 8~11(10), 페이지꾸미장, 연등 2시간<br><br>
 		</p>
 
  		
